@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mobashshirul Karim from Bangladesh.<br><br>- 🔭 I’m working as Junior Web Developer at World Community Network (WCN).<br>- 📚 I'm currently learning React and Express .<br>- ⚡ In my free time I love to develop my ideas into reality using code.</p>
+<p align="left">I'm Mobashshirul Karim from Bangladesh.<br><br>- 🔭 I’m working as a CEO, Web and Software Developer at my own company Logic Realm.<br>- 📚 I'm currently learning React and Express .<br>- ⚡ In my free time I love to develop my ideas into reality using code.</p>
 
 ###
 
