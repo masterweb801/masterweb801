@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=masterweb801&theme=dark" height="220" alt="GitHub Streak Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterweb801&theme=dark" height="220" alt="GitHub Streak Graph" />
 </div>
 
 ###
