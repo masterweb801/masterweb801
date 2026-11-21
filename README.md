@@ -37,8 +37,8 @@ MySQL · MongoDB · Git · Linux · Windows · VS Code
 
 - **Portfolio:** [skillfolio.rf.gd](https://skillfolio.rf.gd/)
 - **Company:** [Logic Realm](https://logicrealm.rf.gd/)
-- **Facebook:** [Logic Realm](https://www.facebook.com/mk.logic.realm)
-- **YouTube:** [My channel](https://www.youtube.com/channel/UC9RhcpsunEGKPBTRXrWyNoA)
+- **Facebook:** [MD Mobashshirul Karim](https://www.facebook.com/mk.logic.realm)
+- **YouTube:** [Logic Realm](https://www.youtube.com/channel/UC9RhcpsunEGKPBTRXrWyNoA)
 - **GitHub:** [@masterweb801](https://github.com/masterweb801)
 
 ---
