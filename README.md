@@ -23,6 +23,14 @@ React · Node.js · Express · Next.js · Android · CustomTkinter
 **Databases & tools**  
 MySQL · MongoDB · Git · Linux · Windows · VS Code
 
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterweb801&theme=dark" height="220" alt="GitHub Streak Graph" />
+</div>
+
+###
+
 ## Connect
 
 - **Portfolio:** [skillfolio.rf.gd](https://skillfolio.rf.gd/)
