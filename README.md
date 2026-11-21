@@ -12,16 +12,6 @@ I'm a developer from Bangladesh who enjoys taking ideas from concept to working 
 - **Desktop software** — practical Windows tools and desktop workflows
 - **Developer tools** — utilities that solve focused, real-world problems
 
-## Featured projects
-
-| Project | What it does |
-|---|---|
-| [RIVUNE](https://github.com/masterweb801/Rivune) · [Server](https://github.com/masterweb801/Rivune-Server) | A music streaming platform with a web player and Android companion app |
-| [ChatMeow](https://github.com/masterweb801/ChatMeow) · [API](https://github.com/masterweb801/ChatMeow-API) | A full-stack chat application and its backend |
-| [Typo](https://github.com/masterweb801/Typo) · [Driver](https://github.com/masterweb801/Typo-Driver) | An Android-to-desktop wireless keyboard project |
-| [Photo Point](https://github.com/masterweb801/Photo-Point) | A Windows utility for converting PowerPoint slides into images |
-| [Skillfolio](https://github.com/masterweb801/Skillfolio) | My personal portfolio website |
-
 ## Technologies
 
 **Languages**  
