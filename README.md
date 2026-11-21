@@ -11,7 +11,7 @@
   <a href="https://www.facebook.com/mk.logic.realm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="mailto:skilfolio@gmail.com" target="_blank">
+  <a href="mailto: mobashshirul.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mobashshirul Karim from Bangladesh.<br><br>- 🔭 I’m working as a CEO, Web and Software Developer at my own company Logic Realm.<br>- 📚 I'm currently learning React and Express .<br>- ⚡ In my free time I love to develop my ideas into reality using code.</p>
+<p align="left">I'm Mobashshirul Karim from Bangladesh.<br><br> Founder & Full-Stack Developer at Logic Realm, building custom web, mobile, and desktop software. Currently exploring advanced patterns in React, Express, and system architecture.</p>
 
 ###
 
