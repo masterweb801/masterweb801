@@ -1,95 +1,45 @@
-<br clear="both">
+# Hi, I'm Mobashshirul Karim 👋
 
-<img align="right" height="150" src="https://github.com/masterweb801/Skillfolio/blob/main/images/user-3.jpg?raw=true"  />
+**Founder & Software Developer at [Logic Realm](https://logicrealm.rf.gd/)**  
+Building practical software across web, Android, desktop, and backend systems.
 
-###
+I'm a developer from Bangladesh who enjoys taking ideas from concept to working products. My projects range from full-stack applications and media platforms to Android utilities and Python desktop tools.
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UC9RhcpsunEGKPBTRXrWyNoA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/mk.logic.realm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="mailto: mobashshirul.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## What I build
 
-###
+- **Web applications & APIs** — interactive interfaces, backend services, authentication, and data-driven products
+- **Android applications** — native Android development and integrations with web-based services
+- **Desktop software** — practical Windows tools and cross-component desktop workflows
+- **Developer tools** — utilities that solve focused, real-world problems
 
-<h1 align="center">Hey There 👋</h1>
+## Featured projects
 
-###
+| Project | What it does |
+|---|---|
+| [RIVUNE](https://github.com/masterweb801/Rivune) · [Server](https://github.com/masterweb801/Rivune-Server) | A music streaming platform with a web player and Android companion app |
+| [ChatMeow](https://github.com/masterweb801/ChatMeow) · [API](https://github.com/masterweb801/ChatMeow-API) | A full-stack chat application and its backend |
+| [Typo](https://github.com/masterweb801/Typo) · [Driver](https://github.com/masterweb801/Typo-Driver) | An Android-to-desktop wireless keyboard project |
+| [Photo Point](https://github.com/masterweb801/Photo-Point) | A Windows utility for converting PowerPoint slides into images |
+| [Skillfolio](https://github.com/masterweb801/Skillfolio) | My personal portfolio website |
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Technologies
 
-###
+**Languages**  
+JavaScript · PHP · Python · Java · Kotlin · C/C++
 
-<p align="left">I'm Mobashshirul Karim from Bangladesh.<br><br> Founder & Full-Stack Developer at Logic Realm, building custom web, mobile, and desktop software. Currently exploring advanced patterns in React, Express, and system architecture.</p>
+**Frameworks & platforms**  
+React · Node.js · Express · Next.js · Android · CustomTkinter
 
-###
+**Databases & tools**  
+MySQL · MongoDB · Git · Linux · Windows · VS Code
 
-<h3 align="left">🛠 Language and tools</h3>
+## Connect
 
-###
+- **Portfolio:** [skillfolio.rf.gd](https://skillfolio.rf.gd/)
+- **Company:** [Logic Realm](https://logicrealm.rf.gd/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **GitHub:** [@masterweb801](https://github.com/masterweb801)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+---
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterweb801&theme=dark" height="220" alt="GitHub Streak Graph" />
-</div>
-
-###
+*I value useful software, thoughtful engineering, and continuous improvement.*
