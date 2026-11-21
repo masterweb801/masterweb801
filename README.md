@@ -9,7 +9,7 @@ I'm a developer from Bangladesh who enjoys taking ideas from concept to working 
 
 - **Web applications & APIs** — interactive interfaces, backend services, authentication, and data-driven products
 - **Android applications** — native Android development and integrations with web-based services
-- **Desktop software** — practical Windows tools and cross-component desktop workflows
+- **Desktop software** — practical Windows tools and desktop workflows
 - **Developer tools** — utilities that solve focused, real-world problems
 
 ## Featured projects
@@ -37,7 +37,8 @@ MySQL · MongoDB · Git · Linux · Windows · VS Code
 
 - **Portfolio:** [skillfolio.rf.gd](https://skillfolio.rf.gd/)
 - **Company:** [Logic Realm](https://logicrealm.rf.gd/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **Facebook:** [Logic Realm](https://www.facebook.com/mk.logic.realm)
+- **YouTube:** [My channel](https://www.youtube.com/channel/UC9RhcpsunEGKPBTRXrWyNoA)
 - **GitHub:** [@masterweb801](https://github.com/masterweb801)
 
 ---
